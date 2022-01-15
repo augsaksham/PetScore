@@ -1,0 +1,18 @@
+1. timm (PyTorch Image Models)
+   Link-  https://github.com/rwightman/pytorch-image-models
+   Installation :
+   import sys
+   sys.path.append('../input/timm-pytorch-image-models/pytorch-image-models-master')
+   import timm
+
+2. Swin Transformer
+   Link- https://www.kaggle.com/tanlikesmath/swin-transformer
+
+3. Transformer Ensemble
+   Link- https://www.kaggle.com/sakshamdwivedi10/transformer-ensemble
+
+4. pwscore
+   Link-https://www.kaggle.com/sakshamdwivedi10/pwscore
+
+5. PetFinder.my - Pawpularity Contest
+   Link-https://www.kaggle.com/c/petfinder-pawpularity-score/data
